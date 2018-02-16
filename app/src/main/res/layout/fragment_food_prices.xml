@@ -6,7 +6,7 @@
 
     <!--Toolbar-->
     <include layout="@layout/toolbar_normal"
-        android:id="@+id/toolbarOwner"/>
+        android:id="@+id/toolbarprices"/>
 
     <!--Control-->
     <ListView
