@@ -4,6 +4,9 @@
     android:layout_height="match_parent">
 
 
+    <!--Toolbar-->
+    <include layout="@layout/toolbar_normal"
+        android:id="@+id/toolbarstatus"/>
 
 
 
