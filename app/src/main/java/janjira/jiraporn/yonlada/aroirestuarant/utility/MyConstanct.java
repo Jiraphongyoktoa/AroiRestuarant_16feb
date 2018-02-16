@@ -9,7 +9,7 @@ public class MyConstanct {
     //    URL
     private String urlPromotionString = "http://androidthai.in.th/mua/getAllData.php";
     private String urlAddUserString = "http://androidthai.in.th/mua/addDataMaster.php";
-
+    private String urlGetAllUserString = "http://androidthai.in.th/mua/getAllUser.php";
 
 
     //    Array
@@ -36,6 +36,10 @@ public class MyConstanct {
 
     //    Method
 
+
+    public String getUrlGetAllUserString() {
+        return urlGetAllUserString;
+    }
 
     public String getUrlAddUserString() {
         return urlAddUserString;
